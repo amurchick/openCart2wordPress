@@ -1,0 +1,35 @@
+{
+  "name": "opencart-to-wordpress",
+  "version": "1.0.0",
+  "description": "OpenCart to Wordpress migrate tool",
+  "main": "migrate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amurchick/openCart2wordPress.git"
+  },
+  "keywords": [
+    "opencart",
+    "wordpress",
+    "migrate"
+  ],
+  "author": "Aleksandr Murin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amurchick/openCart2wordPress/issues"
+  },
+  "homepage": "https://github.com/amurchick/openCart2wordPress#readme",
+  "dependencies": {
+    "co": "^4.6.0",
+    "debug": "^2.2.0",
+    "lodash": "^3.10.1",
+    "mysql": "^2.9.0",
+    "rsvp": "^3.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-po2mo": "^0.1.2"
+  }
+}

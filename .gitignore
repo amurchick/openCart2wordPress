@@ -1,5 +1,8 @@
+/rsync-from-s-to-local.sh
+/Gruntfile.js
 *.log
 node_modules/*
 .idea/**
 *.iml
 got.ru/*
+/private.js
