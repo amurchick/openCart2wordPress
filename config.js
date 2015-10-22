@@ -10,6 +10,13 @@ module.exports = {
 		user: 'user',
 		password: 'password',
 		database: 'database'
-	}
+	},
+
+	// Tables prefix in openCart DB
+	tablesPrefix: 'oc',
+
+	openCartRoot: '/path/to/opencart/',
+
+	tempPath: './tmp'
 };
 

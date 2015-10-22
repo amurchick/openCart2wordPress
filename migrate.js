@@ -8,7 +8,5 @@
 (() => {
 
 	var app = require('./lib/main')();
-
-	console.log(app.version);
 	app.start();
 })();
