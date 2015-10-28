@@ -15,6 +15,8 @@ module.exports = {
 	// Tables prefix in openCart DB
 	tablesPrefix: 'oc',
 
+	openCartDomain: 'domain.ru',
+
 	openCartRoot: '/path/to/opencart/',
 
 	tempPath: './tmp'
